@@ -36,7 +36,7 @@ $credit = $_SESSION['credit'];
 <body>
     <div class="container py-4">
         <div class="row">
-            <div class="col-lg-8 mt-4 card shadow-lg">
+            <div class="col-xl-8 mt-4 card shadow-lg">
                 <div class="row card-header d-flex">
                     <h4>Labubu Vending Machine</h4>
                     <button class="btn btn-warning ml-auto" onclick="reStock()">Re-Stock</button>
@@ -53,7 +53,7 @@ $credit = $_SESSION['credit'];
                     <?php endforeach; ?>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-xl-4">
                 <div class="card credit-section">
                     <div class="card-header">
                         <h4>Top up credit</h4>
