@@ -2,11 +2,6 @@
 
 A simple vending machine application built with Pure PHP.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Architecture Diagram](#architecture)
-
 ## Installation
 
 ### Prerequisites
@@ -46,4 +41,6 @@ Alternatively, if you're using a different PHP web server
   http://localhost/vending-machine
    ````
 
-## Architecture
+## Architecture Diagram
+![Architecture](https://github.com/tchinlapha/vending-machine/blob/main/assets/img/architecture.png?raw=true)
+
