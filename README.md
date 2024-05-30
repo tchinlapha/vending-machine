@@ -1,11 +1,22 @@
 # Vending Machine
 
 A simple vending machine application built with Pure PHP.
+This is an demo of a vending machine project. It simulates the behavior of a real vending machine, allowing users to select products and make purchases.
 
-Online Demo: http://www.vending-machine.great-site.net
+## Features
+- Display available products
+- Accept virtual coins
+- Dispense selected products
+- Provide change
 
-## Installation
+## How to Use
+1. Visit the [online demo](http://www.vending-machine.great-site.net) to see the vending machine in action.
+2. Select a product by clicking on it.
+3. Insert virtual coins by clicking on the coin icons.
+4. Click the "Purchase" button to buy the selected product.
+5. The machine will dispense the product and provide change if necessary.
 
+## Manual Installation
 ### Prerequisites
 
 - [XAMPP](https://www.apachefriends.org/index.html) or any PHP web server.
