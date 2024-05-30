@@ -2,6 +2,8 @@
 
 A simple vending machine application built with Pure PHP.
 
+Online Demo: http://www.vending-machine.great-site.net
+
 ## Installation
 
 ### Prerequisites
